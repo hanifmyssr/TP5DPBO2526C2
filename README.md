@@ -1,9 +1,5 @@
 # TP5 DPBO - PeopleData (Data Anggota Polri) dengan Database MySQL
 
-**Nama:** Muhammad Hanif Muyassar
-**NIM:** (isi NIM)
-**Kelas:** (isi kelas)
-
 ## Janji
 Saya Muhammad Hanif Muyassar dengan NIM 2510593 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
