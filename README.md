@@ -5,7 +5,7 @@
 **Kelas:** (isi kelas)
 
 ## Janji
-Saya mengerjakan Tugas Praktikum 5 DPBO dengan sebaik-baiknya dan tanpa melakukan kecurangan. Aamiin.
+Saya Muhammad Hanif Muyassar dengan NIM 2510593 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain & Fungsi Program
 Aplikasi desktop Java Swing untuk mengelola **data anggota Polri** (data fiktif). Seluruh operasi CRUD sekarang terhubung ke **database MySQL** (`db_people`) lewat JDBC, dan penggunaan `ArrayList` sudah dihapus.
@@ -58,11 +58,4 @@ Aplikasi desktop Java Swing untuk mengelola **data anggota Polri** (data fiktif)
 6. Klik **Cancel** untuk mengosongkan form dan kembali ke mode Add.
 
 ## Dokumentasi
-(Tambahkan screenshot atau rekaman yang menunjukkan semua operasi CRUD dan semua dialog error.)
-
-![Tampilan awal](Dokumentasi/awal.png)
-![Create](Dokumentasi/create.png)
-![Update](Dokumentasi/update.png)
-![Konfirmasi Delete](Dokumentasi/konfirmasi-delete.png)
-![Error kolom kosong](Dokumentasi/error-kosong.png)
-![Error ID kembar](Dokumentasi/error-id-kembar.png)
+Video dokumentasi program :
