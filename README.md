@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/185361f2-9f3f-4375-85d2-875f6b9b8f2c
-
 # TP5 DPBO - PeopleData (Data Anggota Polri) dengan Database MySQL
 
 **Nama:** Muhammad Hanif Muyassar
